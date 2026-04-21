@@ -1,0 +1,18 @@
+export const Renkler = {
+    arkaplan: '#F8F9FA',
+    arkaplan2: '#d0d3d6',
+    anaRenk: '#FF9F43',
+    anaRenkKoyu: '#EE5A24',
+    vurgu: '#54a0ff',
+    yaziKoyu: '#222f3e',
+    yaziHafif: '#8395a7',
+    harika: '#1dd1a1',
+    mutlu: '#feca57',
+    normal: '#54a0ff',
+    kotu: '#5f27cd',
+    berbat: '#ff6b6b',
+    kizgin: '#c0392b',
+    yorgun: '#a29bfe',
+    beyaz: '#FFFFFF',
+    griArkaplan: '#dfe6e9',
+};
